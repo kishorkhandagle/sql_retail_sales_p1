@@ -218,9 +218,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
 ### Stay Updated
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media :
+For more content on SQL, data analysis, and other data-related topics, connect with me using the contact details below.
 
-- **LinkedIn**: (https://www.linkedin.com/in/kishor-khandagle-1899a6278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
--  **Email**:(kishork1725@gmail.com)
+- **LinkedIn:** [Kishor Khandagle](https://www.linkedin.com/in/kishor-khandagle-1899a6278)
+- **Email:** kishork1725@gmail.com
 
 Thank you!
