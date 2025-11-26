@@ -220,7 +220,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media :
 
-- **LinkedIn**: ([](https://www.linkedin.com/in/kishor-khandagle-1899a6278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn**: (https://www.linkedin.com/in/kishor-khandagle-1899a6278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 -  **Email**:(kishork1725@gmail.com)
 
 Thank you!
